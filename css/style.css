@@ -1,0 +1,21 @@
+/*default css*/
+.container{
+    border: 5px solid black;
+    background-color:lightcyan;
+}
+.container-fluid{
+    background-color:lightcyan;
+}
+.box{
+    min-height: 100vh;
+    background-color:lightcyan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p{
+    font-size: 20px;
+}
+
+
+
+
+/*media.css*/
